@@ -4,9 +4,9 @@ return [
     
     'type'           => 'mysql',	     // 数据库类型   
     'hostname'       => 'localhost',     // 服务器地址   
-    'database'       => 'www_dkewl_com',    // 数据库名
-    'username'       => 'www_dkewl_com',	         // 用户名  
-    'password'       => 'eMypdfHnNak4HT4C',	         // 密码
+    'database'       => 'juzhen',    // 数据库名
+    'username'       => 'juzhen',	         // 用户名  
+    'password'       => 'mWYCxwrccjr3aMRj',	         // 密码
     'hostport'       => '3306',	         // 端口
     'dsn'            => '',	             // 连接dsn
     'params'         => [],	             // 数据库连接参数   
