@@ -1,15 +1,8 @@
-<?php
+﻿<?php
 
+//配置文件
 return [
-
-    //模板参数替换
-    'view_replace_str' => array(
-        '__CSS__' => ROOT.'/static/admin/css',
-        '__JS__'  =>ROOT. '/static/admin/js',
-        '__IMG__' =>ROOT. '/static/admin/images',
-        '__VIDEO__' =>ROOT. '/uploads/images',
-        '__MUB__' =>ROOT. '/public/static/mub',
-		
-    ),
-
+    'url_1common_param'       => true,
+    'url_html_suffix'        => '',
+    'controller_auto_search' => true,
 ];
